@@ -3,8 +3,8 @@
             Copyright © 2015-<?php echo date('Y');?> All Rights Reserved </br>
         </p>
         <p  class="text-white  m-1 p-1 h6">
-            Powered by <a href="https://you2php.github.io/" target="_blank" class="text-white font-italic">YOU2PHP</a> 
-            <a href="./embed/upgrade.php" target="_blank" class="text-white ml-2">检查更新</a>
+            Powered by <a href="https://3cho.github.io/" target="_blank" class="text-white font-italic">3cho</a> 
+            <a href="./embed/upgrade.php" target="_blank" class="text-white ml-2">update</a>
         </p>
     </footer>
   
