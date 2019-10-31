@@ -1,16 +1,16 @@
 {
-  "name": "You2PHP",
-  "description": "基于PHP的YouTube代理应用",
-  "website": "https://github.com/zyp997/",
-  "repository": "https://github.com/zyp997/you2php-heroku",
+  "name": "Yantai",
+  "description": "Yantai",
+  "website": "https://github.com/yaleax/",
+  "repository": "https://github.com/yaleax/you2php-heroku",
   "env": {
     "APIKEY": {
       "description": "Youtube API V3 KEY",
-      "value": "AIzaSyDOy40AKnOUvotuyMJ8Fk9guYbecB3ZUXo"
+      "value": "AIzaSyBhr33ThlD3kgk7mi3jBO-QS7uQBDUzM_8"
     },
     "PROJECT_ID": {
       "description": "PROJECT ID",
-      "value": "PLLOFsS_xM0Rx0FvJ11eS-Mxomo4xLJUD_"
+      "value": "PLLOFsS_xM0Rx0NtJ11eS-Mxomo4xLJUD_"
     }
   }
 }
