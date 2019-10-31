@@ -6,11 +6,11 @@
   "env": {
     "APIKEY": {
       "description": "Youtube API V3 KEY",
-      "value": "AIzaSyBhr33ThlD3kgk7mi3jBO-QS7uQBDUzM_8"
+      "value": ""
     },
     "PROJECT_ID": {
       "description": "PROJECT ID",
-      "value": "PLLOFsS_xM0Rx0NtJ11eS-Mxomo4xLJUD_"
+      "value": ""
     }
   }
 }
